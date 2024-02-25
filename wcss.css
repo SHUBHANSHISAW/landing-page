@@ -1,0 +1,79 @@
+.d-inline-block{
+    border-color: black;
+    border-style: double;
+    box-shadow: 0px 2px 0px 0px  rgb(249, 177, 83);
+   
+}
+.nav-item:hover{
+  border-color: rgb(218, 137, 31);
+  border-style:groove;
+  margin: 0% 0% 2% 4%;
+  padding: 0% 2% 0% 0%;
+  border-radius: 2.5px 7.5px ;
+  box-shadow: 0px 1px 0px 1px  rgb(224, 68, 11); 
+}
+.nav-item{
+  border-radius: 2px 7px ;
+  border: 2px double rgb(218, 137, 31);
+  margin: 0% 0% 2% 4%;
+  padding: 0% 2% 0% 0%;
+}
+.d-block {
+  width: 1150px;
+  height: 750px;
+}
+.size{
+  font-family: cursive;
+  font-size: 4em;
+  color:white;
+}
+.service-section{
+padding: 5% 0% 5% 0%;
+border-top:3px  solid rgb(228, 172, 98) ;
+border-bottom:3px  solid rgb(228, 172, 98) ; 
+}
+h2{
+font-family: lucida ;
+}
+.icon-span{
+background-color: rgb(218, 137, 31);
+color: black;
+box-shadow: 0px 1px 0px 1px black;  
+}
+.card-box:hover{
+border: 1px solid rgb(192, 118, 21);
+box-shadow: 4px 4px 2px 2px rgb(218, 137, 31);
+}
+nav{
+background-color:rgb(255, 228, 193); 
+border-bottom: 3px  solid rgb(179, 105, 10) ;
+border-top: 2px solid rgb(218, 137, 31) ;
+border-right: 2px solid rgb(218, 137, 31) ;
+border-left: 2px solid rgb(218, 137, 31) ;
+}
+.card-img-top{
+  height: 150px;
+}
+.img-fluid{
+  border: 1px solid rgb(247, 142, 5);
+box-shadow: 4px 4px 2px 2px rgb(206, 117, 2);
+}
+.text-muted{
+  columns:rgb(155, 89, 4) ;
+}
+.about-section{
+   
+margin-top: 80px;
+}
+#us{
+  color:rgb(155, 89, 4) ; ;
+}
+.conntectus{
+  margin: 10px;
+  margin-top: 100px;
+  border:3px  double rgb(140, 85, 13) ;
+  background-color:rgb(246, 210, 164) ;
+}
+form{
+  margin: 20px 50px 0px 50px;
+}
